@@ -1,4 +1,4 @@
-Hello and welcome to my README file. I hope you  will get all my relevent files and project I did and I am doing in future
+Hello I am Aryan and I welcome you to my README file. I hope you  will get all my relevent files and project I did and I am doing in future
 
 Number guess game:
 
